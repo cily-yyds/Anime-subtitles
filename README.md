@@ -10,9 +10,9 @@ This repo contains a csv file about anime subtitles crawl from open web.This dat
 
 - Some data captures:
 
-[capture 1](https://github.com/cily-yyds/Anime-subtitles/blob/main/glimpse/capture%201.png)
+![capture 1](https://github.com/cily-yyds/Anime-subtitles/blob/main/glimpse/capture%201.png)
 
-[capture 2](https://github.com/cily-yyds/Anime-subtitles/blob/main/glimpse/capture%202.png)
+![capture 2](https://github.com/cily-yyds/Anime-subtitles/blob/main/glimpse/capture%202.png)
 
 ## Usage
 
